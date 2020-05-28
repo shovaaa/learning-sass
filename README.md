@@ -11,8 +11,8 @@ Through this course I learned:
 
 Desktop view
 
-<img src='./SASS/SASS-desktopView'>
+<img src='./SASS/SASS-desktopView.png'>
 
 iPhone X view
 
-<img src='./SASS/SASS-iPhoneX-View'>
+<img src='./SASS/SASS-iPhoneX-View.png'>
